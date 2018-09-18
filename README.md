@@ -4,6 +4,7 @@ An extension for Chrome and Firefox to put a *beautiful* play button on the osu-
 
 Feel free to propose some changes !
 
+
 # Download
 [Download here !](https://github.com/Hickacou/osuPlayButton/releases)
 
