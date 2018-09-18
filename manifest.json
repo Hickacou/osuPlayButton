@@ -1,0 +1,15 @@
+  {
+    "name": "osu!PlayButton",
+    "version": "1.0",
+    "description": "Launch the game from the website !",
+    "manifest_version": 2,
+    "content_scripts": [{
+        "js": ["elements.js"],
+        "css": ["style.css"],
+        "matches": [
+          "https://osu.ppy.sh/home/*","https://osu.ppy.sh/home","https://osu.ppy.sh/community/*","https://osu.ppy.sh/rankings/*","https://osu.ppy.sh/store/*","https://osu.ppy.sh/help/*","https://osu.ppy.sh/beatmapsets/*","https://osu.ppy.sh/beatmapsets","https://osu.ppy.sh/beatmaps/*","https://osu.ppy.sh/users/*"
+          
+        ]
+      }],
+      "browser_action": {"default_icon" : "icon.png"}
+  }
