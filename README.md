@@ -8,5 +8,7 @@ Feel free to propose some changes !
 # Download
 [Download here !](https://github.com/Hickacou/osuPlayButton/releases)
 
+*Not released yet, coming really soon.*
+
 # More
 [Discord Server](https://discord.gg/2r7ZHvm)
