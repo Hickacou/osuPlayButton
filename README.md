@@ -25,4 +25,6 @@ git clone https://github.com/Hickacou/osuPlayButton.git
 ```
 But one of the best thing you can do is making issues to make me aware of bugs ! 
 ## More
-[Discord Server](https://discord.gg/2r7ZHvm)
+[Discord Server](https://discord.gg/rbptXPS)
+
+[Forum Post](https://osu.ppy.sh/community/forums/topics/805831)
