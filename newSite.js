@@ -1,5 +1,4 @@
 //Play Button
-console.log("fefe");
 var menuAvatar = document.querySelector(".nav2-header .nav2__col--avatar");
 var theContainer = document.createElement("div");
 theContainer.className = "nav2__col";
@@ -40,9 +39,7 @@ thePlayButton.addEventListener("click",() => {
 var oldLocation = location.href;
 setInterval(function() {
     if (oldLocation != location.href) {
-        console.log("new :pog:");
         oldLocation = location.href;
-        // menuAvatar.insertAdjacentElement("afterend",theContainer);
         location.reload();
     }
 },100);
