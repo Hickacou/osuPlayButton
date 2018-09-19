@@ -9,10 +9,10 @@ Feel free to propose some changes !
 *Not released yet, coming really soon.*
 ## Installation guide
 This extension is still in an *alpha* state, so it's not yet released on extensions stores.
-### Google Chrome
+### Google Chrome & Opera
 1. Download the *.xpi* or the *.zip* of the extension [here](https://github.com/Hickacou/osuPlayButton/releases)
 2. Change the *.xpi* to *.zip* or take the *.zip* and dezip it wherever you want.
-3. Go to *chrome://extensions*
+3. Go to *chrome://extensions* (*opera://extensions* for Opera) and turn on the Developer mode
 4. Click on "*Load unpacked extension*" and select the extension's directory.
 ### Firefox
 1. Download the *.xpi* of the extension [here](https://github.com/Hickacou/osuPlayButton/releases)
